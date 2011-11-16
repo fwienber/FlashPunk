@@ -1,1 +1,7 @@
 *~
+# IDEA
+*.iml
+*.ipr
+*.iws
+# Maven output
+target/**
